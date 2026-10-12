@@ -1,0 +1,8 @@
+# Large VM disk images and the download, never commit these
+carbonite/
+*.vmdk
+*.zip
+
+# Working attack artifacts kept local only
+payloads/
+captures/
